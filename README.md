@@ -1,4 +1,4 @@
-[![Crash course in contributing to open source projects](images/EuroSciPydevsprint.jpg)](https://www.euroscipy.org/2022/sprint.html)
+[![Crash course in contributing to open source projects](images/EuroSciPy dev sprint.jpg)](https://www.euroscipy.org/2022/sprint.html)
 
 # EuroSciPy 2022 - Sprint - Basel
 Repository with materials and instructions to setup your environment for the EuroSciPy sprint.
