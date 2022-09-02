@@ -53,7 +53,7 @@ Another one can interest people with a bit more experience:
 - https://github.com/scikit-learn/scikit-learn/issues/11000
 
 When referencing your PR and while linking it to an existing issue, please insert the following hashtag
-#europython22
+#euroscipy2
 
 ## Additional Resources for beginners
 
