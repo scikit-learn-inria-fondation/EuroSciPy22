@@ -16,7 +16,7 @@ Feel free to familiarize yourself with git branching concepts by following the
 installation required for this tutorial).
 
 If you have the time, feel free to do as much as you want of the workshop on
-your own. Feel free to ask question on our [Discord channel](https://discord.gg/rqxwcuw8).
+your own. Feel free to ask question on our [Gitter](https://gitter.im/scikit-learn/scikit-learn).
 
 ## Workshop for first time contributors
 
