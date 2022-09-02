@@ -47,6 +47,7 @@ In particular those "meta-issues" list potential tasks to perform as first time 
 
 - https://github.com/scikit-learn/scikit-learn/issues/21350
 - https://github.com/scikit-learn/scikit-learn/issues/23462
+- https://github.com/scikit-learn/scikit-learn/issues/5435
 
 Another one can interest people with a bit more experience:
 
